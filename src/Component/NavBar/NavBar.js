@@ -8,12 +8,13 @@ import {
   NavBtnLink,
 } from "./NavbarElements";
 
+///Users/pohsu/Documents/react/meal-bros/src/Images/mealbros-logo.png
 const NavBar = () => {
   return (
     <React.Fragment>
       <Nav>
         <NavLink to="/">
-          <h1>logo</h1>
+          <img className="mb-logo" src="./mb-logo.png" alt="MealBros" />
         </NavLink>
         <Bars />
         <NavMenu>
