@@ -1,0 +1,27 @@
+.Home-Display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.MealPlan-Display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.GroceryList-Display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.Recipes-Display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
