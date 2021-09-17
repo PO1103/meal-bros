@@ -1,0 +1,173 @@
+[
+  {
+    "dishId": 1,
+    "dishName": "Oklahoma Onion Burgers",
+    "dishImage": "OklahomaOnionBurger.jpg",
+    "ingredients": {
+      "meats": [
+        {
+          "ground beef": "0.5lbs",
+          "bacon": "1 slice"
+        }
+      ],
+      "vegetables": [{ "onion": "1 small" }],
+      "carbs": {
+        "buns": "2 pcs"
+      },
+      "condiments": [
+        { "olive oil": "1 tbsp" },
+        { "cheese": "1 slice" },
+        { "mustard": 0 },
+        { "ketchup": 0 },
+        { "pickles": 0 },
+        { "salt": 0 },
+        { "pepper": 0 }
+      ]
+    },
+    "steps": [
+      {
+        "image": "./",
+        "text": "onion thinnly slices, and form a 4oz patty."
+      },
+      {
+        "image": "./",
+        "text": "pan frie bacon and render out the fat, will use this fat to cook the patty."
+      },
+      {
+        "image": "./",
+        "text": "place the patty in the pan and press the onions onto the patty, cook for 2 mins then flipp the patty and cook for 2 mins."
+      },
+      {
+        "image": "./",
+        "text": "add condiments onto the bun and slide th patty onto the bun."
+      }
+    ]
+  },
+  {
+    "dishId": 2,
+    "dishName": "Classic Carbonara",
+    "dishImage": "ClassicCarbonara.jpg",
+    "ingredients": {
+      "meats": [
+        {
+          "Bacon": "1 slice"
+        }
+      ],
+      "vegetables": [{ "garlic": "1 clove" }],
+      "carbs": {
+        "spaghetti": "1 batch"
+      },
+      "condiments": [
+        { "oil": "1 tbsp" },
+        { "cheese": "80 grams" },
+        { "salt": 0 },
+        { "pepper": 0 }
+      ]
+    }
+  },
+  {
+    "dishId": 3,
+    "dishName": "Taiwanese Braised Pork",
+    "dishImage": "TaiwaneseBraisedPork.jpg",
+    "ingredients": {
+      "meats": [
+        {
+          "Pork Belly": "2.5 lbs"
+        }
+      ],
+      "vegetables": [
+        { "garlic": "5 cloves" },
+        { "Shallot": "3 blooms" },
+        { "Green Onion": "2 " }
+      ],
+      "carbs": {
+        "rice": "2 cup"
+      },
+      "condiments": [
+        { "sugar": "3 tsp" },
+        { "sou sauce": "2 tbsp" },
+        { "five spice": "1 tsp" },
+        { "white pepper": "1 tsp" }
+      ]
+    }
+  },
+  {
+    "dishId": 4,
+    "dishName": "Taiwanese Sticky Rice",
+    "dishImage": "TaiwaneseStickyRice.jpg",
+    "ingredients": {
+      "meats": [
+        {
+          "Pork Belly": "0.5 lbs"
+        }
+      ],
+      "vegetables": [
+        { "garlic": "4 cloves" },
+        { "Shallot": "2 blooms" },
+        { "Green Onion (White)": "2" }
+      ],
+      "carbs": {
+        "sticky rice (or rice)": "1-2 cup"
+      },
+      "condiments": [
+        { "brown sugar": "2 tsp" },
+        { "soy sauce": "2 tbsp" },
+        { "five spice": "1 tsp" },
+        { "white pepper": "1 tsp" },
+        { "sesame oil": "0.5 tbsp" },
+        { "shrimp rice": "2 tsp" }
+      ]
+    }
+  },
+  {
+    "dishId": 5,
+    "dishName": "Taiwanese Pork Chop",
+    "dishImage": "TaiwanesePorkChop.jpg",
+    "ingredients": {
+      "meats": [
+        {
+          "Pork Chop": "2 pieces"
+        }
+      ],
+      "vegetables": [
+        {
+          "garlic": "5 cloves"
+        }
+      ],
+      "condiments": [
+        { "brown sugar": "2 tsp" },
+        { "soy sauce": "2 tbsp" },
+        { "five spice": "0.5 tsp" },
+        { "sweet potato flour": "100 ml" },
+        { "cooking wine": "2 tbsp" },
+        { "water": "2 tsp" }
+      ]
+    }
+  },
+  {
+    "dishId": 6,
+    "dishName": "Stewed beef with red wine",
+    "dishImage": "Stewedbeefwithredwine.jpg",
+    "ingredients": {
+      "meats": [
+        {
+          "beef": "1 lbs"
+        }
+      ],
+      "vegetables": [
+        { "garlic": "2 cloves" },
+        { "long mushroom": "100 gram" },
+        { "enoki": "50 gram" },
+        { "onion": " 1/2" },
+        { "cherry tomato": "350 gram" }
+      ],
+      "condiments": [
+        { "salt": 0 },
+        { "pepper": 1 },
+        { "butter": "1 tbsp" },
+        { "red wine": "100 ml" },
+        { "brown sugar": "1 tsp" }
+      ]
+    }
+  }
+]

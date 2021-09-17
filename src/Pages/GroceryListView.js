@@ -1,5 +1,7 @@
 import React from "react";
 
+//count based on weekly plan
+//can also add items
 const GroceryList = () => {
   console.log("grocery");
   return (
